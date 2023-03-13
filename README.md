@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCvZkcHNIv2coR5GAV222-Fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techpuuu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvZkcHNIv2coR5GAV222-Fw, https://www.linkedin.com/in/omprakash-mishra-829086254/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg/linkedin.svg" alt="techpuuu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
