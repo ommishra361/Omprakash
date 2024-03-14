@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JAVASCRIPT**
 
-- 📫 How to reach me **ommishra361@gmail.com**
+- 📫 How to reach me **ommishra16032@gmail.com**
 
 - ⚡ Fun fact **COMPUTER:- C-Commonly, O-Operated, M-Machine, P-Particularly, U-Used for, T-Technical and, E-Educational, R-Research**
 
