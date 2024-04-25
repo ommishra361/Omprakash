@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ommishra361&label=Profile%20views&color=0e75b6&style=flat" alt="ommishra361" /> </p>
 
-- 🌱 I’m currently working on **My Programming Skills and Improving them too**
+- 🌱 I’m currently working on **My Programming Skills and Improving them too!!**
 
 - 📫 How to reach me **ommishra16032@gmail.com**
 
